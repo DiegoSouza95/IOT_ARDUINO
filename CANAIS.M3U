@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="http://static.bldn.vip/logos/globo/globo-sp.png" group-title="CANAIS ABERTOS",GLOBO SP FHD H265
 http://b2p.li:80/diegoeng/809412/61127
 #EXTINF:-1 tvg-id="globo.tem.bauru.br" tvg-name="GLOBO TV TEM S.J.R.P FHD" tvg-logo="http://static.bldn.vip/logos/globo/tvtemsorocaba.png" group-title="CANAIS ABERTOS",GLOBO TV TEM S.J.R.P FHD
